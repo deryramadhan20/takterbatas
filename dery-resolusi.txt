@@ -1,0 +1,5 @@
+halo pak, salam kenal nama saya dery dari bandung
+
+resolusi :
+- membuat website menggunakan framework javascript
+- bekerja di startup besar
